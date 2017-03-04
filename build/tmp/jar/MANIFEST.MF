@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: ndeploy
+Implementation-Version: 0.1.0
+Built-By: rafael
+Built-Date: Fri Mar 03 17:29:32 BRT 2017
+Built-JDK: 1.8.0_101
+Main-Class: com.rafael.ServerTest
+
